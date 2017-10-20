@@ -1,0 +1,191 @@
+Oct 20 22:46:26 10.71.50.7 u87227813 Connection from 10.71.50.7 port 33288 on 212.227.24.15 port 22
+Oct 20 22:46:27 10.71.50.7 u87227813 Accepted password for u87227813 from 10.71.50.7 port 33288 ssh2
+Oct 20 22:46:27 - u87227813 session opened for local user u87227813 from [10.71.50.7]
+Oct 20 22:46:57 10.71.50.7 u87227813 Connection from 10.71.50.7 port 60068 on 212.227.24.15 port 22
+Oct 20 22:46:58 10.71.50.7 u87227813 Accepted password for u87227813 from 10.71.50.7 port 60068 ssh2
+Oct 20 22:46:57 10.71.50.7 u87227813 Connection from 10.71.50.7 port 60058 on 212.227.24.15 port 22
+Oct 20 22:46:58 10.71.50.7 u87227813 Accepted password for u87227813 from 10.71.50.7 port 60058 ssh2
+Oct 20 22:46:58 - u87227813 session opened for local user u87227813 from [10.71.50.7]
+Oct 20 22:46:58 - u87227813 session opened for local user u87227813 from [10.71.50.7]
+Oct 20 22:46:58 - u87227813 open "/.bash_history" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 open "/index.html" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 close "/.bash_history" bytes read 454 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|454|0|0|0|2f2e626173685f686973746f7279|]
+Oct 20 22:46:58 - u87227813 close "/index.html" bytes read 8591 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|8591|0|0|0|2f696e6465782e68746d6c|]
+Oct 20 22:46:58 - u87227813 open "/LICENSE" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 open "/phptests.php" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 close "/LICENSE" bytes read 1094 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|1094|0|0|0|2f4c4943454e5345|]
+Oct 20 22:46:58 - u87227813 close "/phptests.php" bytes read 328 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|328|0|0|0|2f70687074657374732e706870|]
+Oct 20 22:46:58 - u87227813 open "/README.md" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 open "/scroller.html" flags READ mode 0666
+Oct 20 22:46:58 - u87227813 close "/README.md" bytes read 1580 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|1580|0|0|0|2f524541444d452e6d64|]
+Oct 20 22:46:58 - u87227813 close "/scroller.html" bytes read 4711 written 0
+Oct 20 22:46:58 - u87227813 [10.71.50.7|get|0|4711|0|0|0|2f7363726f6c6c65722e68746d6c|]
+Oct 20 22:46:59 - u87227813 open "/test.html" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 close "/test.html" bytes read 318 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|318|0|0|0|2f746573742e68746d6c|]
+Oct 20 22:46:59 - u87227813 open "/css/scrolling-nav.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 close "/css/scrolling-nav.css" bytes read 1457 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|1457|0|0|0|2f6373732f7363726f6c6c696e672d6e61762e637373|]
+Oct 20 22:46:59 - u87227813 open "/css/scrolling.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 open "/css/landing-page.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 close "/css/scrolling.css" bytes read 1517 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|1517|0|0|0|2f6373732f7363726f6c6c696e672e637373|]
+Oct 20 22:46:59 - u87227813 close "/css/landing-page.css" bytes read 2934 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|2934|0|0|0|2f6373732f6c616e64696e672d706167652e637373|]
+Oct 20 22:46:59 - u87227813 open "/css/bootstrap.min.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 open "/css/bootstrap.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 close "/css/bootstrap.css" bytes read 146010 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|146010|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Oct 20 22:46:59 - u87227813 close "/css/bootstrap.min.css" bytes read 121200 written 0
+Oct 20 22:46:59 - u87227813 [10.71.50.7|get|0|121200|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Oct 20 22:46:59 - u87227813 open "/font-awesome/css/font-awesome.min.css" flags READ mode 0666
+Oct 20 22:46:59 - u87227813 open "/font-awesome/css/font-awesome.css" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 close "/font-awesome/css/font-awesome.min.css" bytes read 21984 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|1|21984|0|0|0|2f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct 20 22:47:00 - u87227813 close "/font-awesome/css/font-awesome.css" bytes read 26651 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|1|26651|0|0|0|2f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e637373|]
+Oct 20 22:47:00 - u87227813 open "/font-awesome/fonts/FontAwesome.otf" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 open "/font-awesome/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 close "/font-awesome/fonts/FontAwesome.otf" bytes read 85908 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|85908|0|0|0|2f666f6e742d617765736f6d652f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct 20 22:47:00 - u87227813 close "/font-awesome/fonts/fontawesome-webfont.woff" bytes read 65452 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|65452|0|0|0|2f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct 20 22:47:00 - u87227813 open "/font-awesome/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 open "/font-awesome/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 close "/font-awesome/fonts/fontawesome-webfont.ttf" bytes read 112160 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|112160|0|0|0|2f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct 20 22:47:00 - u87227813 close "/font-awesome/fonts/fontawesome-webfont.svg" bytes read 287007 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|287007|0|0|0|2f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct 20 22:47:00 - u87227813 open "/font-awesome/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 close "/font-awesome/fonts/fontawesome-webfont.eot" bytes read 56006 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|56006|0|0|0|2f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct 20 22:47:00 - u87227813 open "/font-awesome/less/variables.less" flags READ mode 0666
+Oct 20 22:47:00 - u87227813 close "/font-awesome/less/variables.less" bytes read 15529 written 0
+Oct 20 22:47:00 - u87227813 [10.71.50.7|get|0|15529|0|0|0|2f666f6e742d617765736f6d652f6c6573732f7661726961626c65732e6c657373|]
+Oct 20 22:47:00 - u87227813 open "/font-awesome/less/stacked.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/spinning.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/stacked.less" bytes read 476 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|1|476|0|0|0|2f666f6e742d617765736f6d652f6c6573732f737461636b65642e6c657373|]
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/spinning.less" bytes read 582 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|582|0|0|0|2f666f6e742d617765736f6d652f6c6573732f7370696e6e696e672e6c657373|]
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/rotated-flipped.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/path.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/rotated-flipped.less" bytes read 622 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|622|0|0|0|2f666f6e742d617765736f6d652f6c6573732f726f74617465642d666c69707065642e6c657373|]
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/path.less" bytes read 684 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|684|0|0|0|2f666f6e742d617765736f6d652f6c6573732f706174682e6c657373|]
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/mixins.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/list.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/mixins.less" bytes read 892 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|892|0|0|0|2f666f6e742d617765736f6d652f6c6573732f6d6978696e732e6c657373|]
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/list.less" bytes read 377 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|377|0|0|0|2f666f6e742d617765736f6d652f6c6573732f6c6973742e6c657373|]
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/larger.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/icons.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/larger.less" bytes read 370 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|370|0|0|0|2f666f6e742d617765736f6d652f6c6573732f6c61726765722e6c657373|]
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/icons.less" bytes read 34455 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|34455|0|0|0|2f666f6e742d617765736f6d652f6c6573732f69636f6e732e6c657373|]
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/font-awesome.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/fixed-width.less" flags READ mode 0666
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/font-awesome.less" bytes read 465 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|465|0|0|0|2f666f6e742d617765736f6d652f6c6573732f666f6e742d617765736f6d652e6c657373|]
+Oct 20 22:47:01 - u87227813 close "/font-awesome/less/fixed-width.less" bytes read 119 written 0
+Oct 20 22:47:01 - u87227813 [10.71.50.7|get|0|119|0|0|0|2f666f6e742d617765736f6d652f6c6573732f66697865642d77696474682e6c657373|]
+Oct 20 22:47:01 - u87227813 open "/font-awesome/less/core.less" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 open "/font-awesome/less/bordered-pulled.less" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 close "/font-awesome/less/core.less" bytes read 418 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|1|418|0|0|0|2f666f6e742d617765736f6d652f6c6573732f636f72652e6c657373|]
+Oct 20 22:47:02 - u87227813 close "/font-awesome/less/bordered-pulled.less" bytes read 330 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|330|0|0|0|2f666f6e742d617765736f6d652f6c6573732f626f7264657265642d70756c6c65642e6c657373|]
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_variables.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_stacked.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_variables.scss" bytes read 15592 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|15592|0|0|0|2f666f6e742d617765736f6d652f736373732f5f7661726961626c65732e73637373|]
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_stacked.scss" bytes read 482 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|482|0|0|0|2f666f6e742d617765736f6d652f736373732f5f737461636b65642e73637373|]
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_spinning.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_rotated-flipped.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_spinning.scss" bytes read 583 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|583|0|0|0|2f666f6e742d617765736f6d652f736373732f5f7370696e6e696e672e73637373|]
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_path.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_rotated-flipped.scss" bytes read 672 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|672|0|0|0|2f666f6e742d617765736f6d652f736373732f5f726f74617465642d666c69707065642e73637373|]
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_path.scss" bytes read 695 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|695|0|0|0|2f666f6e742d617765736f6d652f736373732f5f706174682e73637373|]
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_mixins.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 open "/font-awesome/scss/_list.scss" flags READ mode 0666
+Oct 20 22:47:02 - u87227813 close "/font-awesome/scss/_mixins.scss" bytes read 906 written 0
+Oct 20 22:47:02 - u87227813 [10.71.50.7|get|0|906|0|0|0|2f666f6e742d617765736f6d652f736373732f5f6d6978696e732e73637373|]
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_list.scss" bytes read 378 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|1|378|0|0|0|2f666f6e742d617765736f6d652f736373732f5f6c6973742e73637373|]
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/_larger.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/_icons.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_larger.scss" bytes read 375 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|375|0|0|0|2f666f6e742d617765736f6d652f736373732f5f6c61726765722e73637373|]
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_icons.scss" bytes read 35004 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|35004|0|0|0|2f666f6e742d617765736f6d652f736373732f5f69636f6e732e73637373|]
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/_fixed-width.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/_core.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_core.scss" bytes read 419 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|419|0|0|0|2f666f6e742d617765736f6d652f736373732f5f636f72652e73637373|]
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_fixed-width.scss" bytes read 120 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|120|0|0|0|2f666f6e742d617765736f6d652f736373732f5f66697865642d77696474682e73637373|]
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/_bordered-pulled.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 open "/font-awesome/scss/font-awesome.scss" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/_bordered-pulled.scss" bytes read 332 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|332|0|0|0|2f666f6e742d617765736f6d652f736373732f5f626f7264657265642d70756c6c65642e73637373|]
+Oct 20 22:47:03 - u87227813 close "/font-awesome/scss/font-awesome.scss" bytes read 405 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|405|0|0|0|2f666f6e742d617765736f6d652f736373732f666f6e742d617765736f6d652e73637373|]
+Oct 20 22:47:03 - u87227813 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 open "/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Oct 20 22:47:03 - u87227813 close "/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|18028|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Oct 20 22:47:03 - u87227813 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Oct 20 22:47:03 - u87227813 [10.71.50.7|get|0|23424|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Oct 20 22:47:04 - u87227813 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|45404|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Oct 20 22:47:04 - u87227813 close "/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|108738|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Oct 20 22:47:04 - u87227813 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 open "/img/phones.png" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Oct 20 22:47:04 - u87227813 close "/img/phones.png" bytes read 353890 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|353890|0|0|0|2f696d672f70686f6e65732e706e67|]
+Oct 20 22:47:04 - u87227813 open "/img/ipad.png" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 open "/img/intro-bg.jpg" flags READ mode 0666
+Oct 20 22:47:04 - u87227813 close "/img/intro-bg.jpg" bytes read 125128 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|125128|0|0|0|2f696d672f696e74726f2d62672e6a7067|]
+Oct 20 22:47:04 - u87227813 close "/img/ipad.png" bytes read 721534 written 0
+Oct 20 22:47:04 - u87227813 [10.71.50.7|get|0|721534|0|0|0|2f696d672f697061642e706e67|]
+Oct 20 22:47:04 - u87227813 open "/img/dog.png" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 open "/img/banner-bg.jpg" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 close "/img/dog.png" bytes read 676552 written 0
+Oct 20 22:47:05 - u87227813 [10.71.50.7|get|1|676552|0|0|0|2f696d672f646f672e706e67|]
+Oct 20 22:47:05 - u87227813 close "/img/banner-bg.jpg" bytes read 99523 written 0
+Oct 20 22:47:05 - u87227813 [10.71.50.7|get|0|99523|0|0|0|2f696d672f62616e6e65722d62672e6a7067|]
+Oct 20 22:47:05 - u87227813 open "/js/scrolling-nav.js" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 open "/js/jquery.easing.min.js" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 close "/js/jquery.easing.min.js" bytes read 5564 written 0
+Oct 20 22:47:05 - u87227813 [10.71.50.7|get|0|5564|0|0|0|2f6a732f6a71756572792e656173696e672e6d696e2e6a73|]
+Oct 20 22:47:05 - u87227813 open "/js/jquery.js" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 close "/js/scrolling-nav.js" bytes read 612 written 0
+Oct 20 22:47:05 - u87227813 [10.71.50.7|get|0|612|0|0|0|2f6a732f7363726f6c6c696e672d6e61762e6a73|]
+Oct 20 22:47:05 - u87227813 close "/js/jquery.js" bytes read 95785 written 0
+Oct 20 22:47:05 - u87227813 [10.71.50.7|get|0|95785|0|0|0|2f6a732f6a71756572792e6a73|]
+Oct 20 22:47:05 - u87227813 open "/js/bootstrap.min.js" flags READ mode 0666
+Oct 20 22:47:05 - u87227813 open "/js/bootstrap.js" flags READ mode 0666
+Oct 20 22:47:06 - u87227813 close "/js/bootstrap.min.js" bytes read 37045 written 0
+Oct 20 22:47:06 - u87227813 [10.71.50.7|get|1|37045|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Oct 20 22:47:06 - u87227813 close "/js/bootstrap.js" bytes read 69707 written 0
+Oct 20 22:47:06 - u87227813 [10.71.50.7|get|1|69707|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Oct 20 22:47:06 - u87227813 open "/logs/sftp.log" flags READ mode 0666
+Oct 20 22:47:06 - u87227813 open "/logs/last_traffic" flags READ mode 0666
